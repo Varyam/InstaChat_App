@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InstaChat</string>
+    <string name="menu_settings">Settings</string>
+    <string name="profile_pic">profile</string>
+    <string name="via_camera">Take photo via Camera</string>
+    <string name="via_gallery">Open Gallery</string>
+    <string name="follower_image">Follower Image</string>
+    <string name="post">Post</string>
+    <string name="add_comment">Add a comment</string>
+    <string name="user_image">User Image</string>
+    <string name="like_button">Like Button</string>
+    <string name="comment_button">Comment Button</string>
+    <string name="add_a_caption_to_your_post">Add a caption to your post</string>
+    <string name="save">Save</string>
+    <string name="no_comments">No comments</string>
+    <string name="likes">%d likes</string>
+    <string name="comment">0 comments</string>
+    <string name="viewComment">View %d comments</string>
+</resources>
